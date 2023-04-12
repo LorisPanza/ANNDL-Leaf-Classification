@@ -4,4 +4,4 @@ The repository shows the models implemented for the Image Classification challen
 
 The challenge consisted on the classification of different leaf categories. Two final best models are developed by me and other 2 collegues: [one](vgg16balanced.ipynb) uses the transfer learning approach with VGG16 as base model while the [second one](0603Percento.ipynb) exploits an handcrafted architecture combined with image augmentation.
 
-Check out the final [report](Paper ANNDL.pdf).
+Check out the final [report](Paper%ANNDL.pdf).
